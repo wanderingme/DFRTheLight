@@ -36,7 +36,7 @@ This is my very first game made in Unity.
 
 ### What is Nothing Rhymes With Entertainment?
 
-NRWE is an entertainment company based in Los Angeles, CA, USA. You can see one of their current projects if you visit http://theworldovermovie.com/ — And, yes, we know there are words that rhyme with entertainment. 
+NRWE is an entertainment company based in Los Angeles, CA, USA. You can see one of their current projects if you visit [http://theworldovermovie.com/](http://theworldovermovie.com/) — And, yes, we know there are words that rhyme with entertainment. 
 
 ### What does D.F.R. stand for?
 
