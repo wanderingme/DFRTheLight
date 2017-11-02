@@ -22,6 +22,18 @@ Blow out all five candles and exit the way you entered. This is no easy feat, ho
 
 D.F.R.: The Light is not a casual game. It is meant to be scary, especially the first few times playing while learning the game mechanics. However, over time you’ll find the gameplay to be rewarding, yet intense, as you discover strategies to get further in the game. 
 
+### How does the map work?
+
+The map displays symbols corresponding with the candles’ general location. To head in a symbol’s direction, using your mouse keep rotating your character until the symbol is at the top center of the map (think “North” on a typical map), then move your character forward [W key] to head in that direction. Once you reach the general area for that symbol, the smaller symbol will disappear from the map and be replaced with a larger one indicating the area to search to locate the candle. 
+
+### The candles aren’t in the same place they were in the last game. Is this a glitch?
+
+No. Candles randomly change positions between games to give gameplay variance. 
+
+### Why can I not find the candles?
+
+Because the location of the candles change per game, sometimes they can be difficult to find. Try searching inside structures, behind things like buildings or containers, etc. And if you turn off your flashlight, you might just catch a glimpse of their flicker in the darkness. 
+
 ### Where did you get all the models and other assets?
 
 To see all the wonderful and talented people or companies that contributed to the creation of this game, please select “Credits” from the main menu. Games like this wouldn’t be possible without the efforts of people and companies like them. Respect!
